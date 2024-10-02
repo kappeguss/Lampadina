@@ -1,0 +1,17 @@
+C:\Users\mazzoleni.21198\source\repos\Lampadina\bin\Debug\net6.0-windows\Lampadina.exe
+C:\Users\mazzoleni.21198\source\repos\Lampadina\bin\Debug\net6.0-windows\Lampadina.deps.json
+C:\Users\mazzoleni.21198\source\repos\Lampadina\bin\Debug\net6.0-windows\Lampadina.runtimeconfig.json
+C:\Users\mazzoleni.21198\source\repos\Lampadina\bin\Debug\net6.0-windows\Lampadina.dll
+C:\Users\mazzoleni.21198\source\repos\Lampadina\bin\Debug\net6.0-windows\Lampadina.pdb
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.Form1.resources
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.Properties.Resources.resources
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.csproj.GenerateResource.cache
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.AssemblyInfoInputs.cache
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.AssemblyInfo.cs
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.csproj.CoreCompileInputs.cache
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.dll
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\refint\Lampadina.dll
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.pdb
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\Lampadina.genruntimeconfig.cache
+C:\Users\mazzoleni.21198\source\repos\Lampadina\obj\Debug\net6.0-windows\ref\Lampadina.dll
