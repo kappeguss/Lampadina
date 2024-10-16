@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mazzoleni.21198\\Lampadina\\Lampadina\\Lampadina.csproj",
+      "projectUniqueName": "C:\\Users\\mazzoleni.21198\\Desktop\\Lampadina\\Lampadina.csproj",
       "projectName": "Lampadina",
-      "projectPath": "C:\\Users\\mazzoleni.21198\\Lampadina\\Lampadina\\Lampadina.csproj",
+      "projectPath": "C:\\Users\\mazzoleni.21198\\Desktop\\Lampadina\\Lampadina.csproj",
       "packagesPath": "C:\\Users\\mazzoleni.21198\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mazzoleni.21198\\Lampadina\\Lampadina\\obj\\",
+      "outputPath": "C:\\Users\\mazzoleni.21198\\Desktop\\Lampadina\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

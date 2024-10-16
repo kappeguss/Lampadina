@@ -20,7 +20,6 @@ namespace Lampadina
         {
             pictureBox1.Visible = true;
             pictureBox2.Visible = false;
-            // commento di prova 
         }
 
         private void button2_Click(object sender, EventArgs e)
